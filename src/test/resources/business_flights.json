@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "departure": "Ankara",
+            "arrival": "Antalya",
+            "departureTime": 1561627856.000000000,
+            "arrivalTime": 1564410656.000000000
+        },
+        {
+            "departure": "Cruz del Eje",
+            "arrival": "Tizi",
+            "departureTime": 1558902656.000000000,
+            "arrivalTime": 1558902656.000000000
+        },
+        {
+            "departure": "Antalya",
+            "arrival": "Istanbul",
+            "departureTime": 1563588000.000000000,
+            "arrivalTime": 1563678000.000000000
+        },
+        {
+            "departure": "Tizi",
+            "arrival": "Cruz del Eje",
+            "departureTime": 1558902656.000000000,
+            "arrivalTime": 1558902656.000000000
+        },
+        {
+            "departure": "Istanbul",
+            "arrival": "Antalya",
+            "departureTime": 1563588000.000000000,
+            "arrivalTime": 1563678000.000000000
+        }
+    ]
+}
